@@ -77,7 +77,7 @@ export default function GibMints() {
           </svg>
           <div className="block">
             <div>
-                Due to changes in Solanas software this tool no longer functions. Head over to 
+                Due to changes in Solanas software this tool no longer functions. Head over to &nbsp;
                 <a href="https://magiceden.io/mintlist-tool">
                 https://magiceden.io/mintlist-tool
                 </a> for a working version.
